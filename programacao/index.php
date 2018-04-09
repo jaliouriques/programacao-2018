@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>leo, bryan e luan</title>
+	<title>Jalieny Ouriques e Cecília Borba</title>
 </head>
 <body>
 
